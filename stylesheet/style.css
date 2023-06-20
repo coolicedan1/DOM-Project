@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+  margin-top: 30px;
+}
+
+.cart-container {
+  height: 70%;
+  width: 85%;
+  background-color: #ffff;
+  box-shadow: 0px 25px 40px #1687d933;
+  border-radius: 20px;
+}
