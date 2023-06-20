@@ -99,6 +99,13 @@ body {
   border-radius: 20px;
 }
 
+.buttonG {
+  height: 10px;
+  width: 16px;
+  background-color:black; 
+  border-radius: 20px;
+}
+
 .subtitle{
   line-height: 10px;
   font-size: 18px;
@@ -107,6 +114,18 @@ body {
   color: #909090;
   text-align: left;
 }
+
+hr{
+  width: 66%;
+  float: right;
+  margin-right: 5%;
+}
+
+
+
+
+
+
 
 
 
